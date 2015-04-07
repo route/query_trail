@@ -16,7 +16,5 @@ Query Trail: app/views/main/_docs.html.erb:2
 ## Installation
 
 ```ruby
-group :development do
-  gem 'query_trail'
-end
+gem 'query_trail', group :development
 ```
