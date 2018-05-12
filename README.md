@@ -1,4 +1,4 @@
-## QueryTrail for Rails ~> 4.0
+## QueryTrail for Rails >= 4.0
 
 Shows a backtrace of your queries:
 
